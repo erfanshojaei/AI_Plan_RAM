@@ -3,14 +3,4 @@ The domain and problem files which are developed and used in the article entitle
 
 Authors:
 
-Erfan Shojaei Barjuei
-
-Eric Courteille
-
-Alessio Capitanelli
-
-Riccardo Bertolucci
-
-Fulvio Mastrogiovanni
-
-Marco Maratea
+Erfan Shojaei Barjuei, Eric Courteille, Alessio Capitanelli, Riccardo Bertolucci, Fulvio Mastrogiovanni and Marco Maratea
